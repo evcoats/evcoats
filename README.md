@@ -3,5 +3,3 @@ I'm Evan Coats, a researcher in computer science at the University of Illinois a
 Organizations:
 - [NSF Expeditions "Mind in Vitro"](https://mindinvitro.illinois.edu/publications) / [Illinois IGB](https://www.igb.illinois.edu/) (Undergraduate Researcher)
 - [Correlation Ventures](https://correlationvc.com/) (Data Science Intern)
-
-Current research focuses on machine learning and information theory for decoding and predictive control of neural systems.
