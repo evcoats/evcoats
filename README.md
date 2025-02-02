@@ -5,5 +5,5 @@ Organizations:
 - [Correlation Ventures](https://correlationvc.com/) (Data Science Intern)
 
 Links:
-- [Spotify](https://open.spotify.com/user/hapev?si=437ce61093384b28)
+- [Spotify Playlists](https://open.spotify.com/user/hapev?si=437ce61093384b28)
 - [LinkedIn](https://www.linkedin.com/in/evanfcoats/)
