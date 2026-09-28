@@ -4,7 +4,7 @@ Research Interests: dynamical systems theory for interpretable machine learning;
 
 You can reach out to me at [efcoats2@illinois.edu](mailto:efcoats2@illinois.edu)
 
-Check out my reading/art list here: https://github.com/AI-Alignment-UIUC/Singularity-Reading-Club/blob/main/README.md
+Check out my reading/art list here: [Singularity Reading Club](https://github.com/AI-Alignment-UIUC/Singularity-Reading-Club/blob/main/README.md)
 
 Organizations:
 - [AI Alignment @ Illinois](https://aialignmentillinois.org/) (Co-Founder, Research Director)
