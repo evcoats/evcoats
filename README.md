@@ -6,6 +6,7 @@ You can reach out to me at [efcoats2@illinois.edu](mailto:efcoats2@illinois.edu)
 
 Research Interests: 
 Dynamical systems theory for interpretable machine learning; Event-based spiking network algorithms; Foundation models for neuroscience
+
 Check out my reading/art list here: [Singularity Reading Club](https://github.com/AI-Alignment-UIUC/Singularity-Reading-Club/blob/main/README.md)
 
 Current:
