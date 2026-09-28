@@ -1,9 +1,13 @@
-I'm Evan Coats, a researcher and MS student in computer science at the University of Illinois at Urbana-Champaign.
+I'm Evan Coats, a graduate researcher in computer science at the University of Illinois at Urbana-Champaign.
+
+Research Interests: dynamical systems theory for interpretable machine learning; Event-based spiking network algorithms; Foundation models for neuroscience
 
 You can reach out to me at [efcoats2@illinois.edu](mailto:efcoats2@illinois.edu)
 
+Check out my reading/art list here: https://github.com/AI-Alignment-UIUC/Singularity-Reading-Club/blob/main/README.md
+
 Organizations:
-- [AI Alignment @ Illinois](https://aialignmentillinois.org/) (Founder, Co-President)
+- [AI Alignment @ Illinois](https://aialignmentillinois.org/) (Co-Founder, Research Director)
 - [NSF Expeditions "Mind in Vitro"](https://mindinvitro.illinois.edu/publications) / [Illinois IGB](https://www.igb.illinois.edu/) (Researcher)
 - [Correlation Ventures](https://correlationvc.com/) (Machine Learning Intern)
 
