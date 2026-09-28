@@ -2,13 +2,13 @@
 
 I'm Evan Coats, a graduate researcher in computer science at the University of Illinois at Urbana-Champaign.
 
-Research Interests: Dynamical systems theory for interpretable machine learning; Event-based spiking network algorithms; Foundation models for neuroscience
-
 You can reach out to me at [efcoats2@illinois.edu](mailto:efcoats2@illinois.edu)
 
+Research Interests: 
+Dynamical systems theory for interpretable machine learning; Event-based spiking network algorithms; Foundation models for neuroscience
 Check out my reading/art list here: [Singularity Reading Club](https://github.com/AI-Alignment-UIUC/Singularity-Reading-Club/blob/main/README.md)
 
-Organizations:
+Current:
 - [AI Alignment @ Illinois](https://aialignmentillinois.org/) (Co-Founder, Research Director)
 - [Siebel School for Computer Science](https://siebelschool.illinois.edu/) / [Engelken Lab](https://rainerengelken.github.io/join/) (Graduate Researcher)
 
