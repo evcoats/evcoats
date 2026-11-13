@@ -11,7 +11,7 @@ Check out my reading/art list here: [Singularity Reading Club](https://github.co
 
 Current:
 - [AI Alignment @ Illinois](https://aialignmentillinois.org/) (Co-Founder, Research Director)
-- [Siebel School for Computer Science](https://siebelschool.illinois.edu/) / [Engelken Lab](https://rainerengelken.github.io/join/) (Graduate Researcher)
+- [Siebel School for Computer Science](https://siebelschool.illinois.edu/) / [Engelken Lab](https://rainerengelken.github.io) (Graduate Researcher)
 
 Formerly:
 - [NSF Expeditions "Mind in Vitro"](https://mindinvitro.illinois.edu/publications) / [Illinois IGB](https://www.igb.illinois.edu/) (Undergraduate Researcher)
