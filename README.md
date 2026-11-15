@@ -19,10 +19,10 @@ Formerly:
 
 
 Profiles:
-- [LessWrong](https://www.lesswrong.com/users/ecstasis)
-- [Spotify](https://open.spotify.com/user/hapev?si=437ce61093384b28)
 - [LinkedIn](https://www.linkedin.com/in/evanfcoats/)
+- [Spotify](https://open.spotify.com/user/hapev?si=437ce61093384b28)
 - [Scholar](https://scholar.google.com/citations?user=qPszEk0AAAAJ)
+- [LessWrong](https://www.lesswrong.com/users/ecstasis)
 - [X](https://x.com/3cstasis)
 
   
